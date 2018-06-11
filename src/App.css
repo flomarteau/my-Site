@@ -2,6 +2,33 @@
   text-align: center;
 }
 
+.myProjects {
+  text-align: left;
+}
+
+#myName {
+  font-weight: 700;
+}
+
+#job {
+  text-align: left;
+}
+
+#soon {
+  font-style: italic;
+}
+
+.soon {
+  margin-top: 40vh;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 50px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
