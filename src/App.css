@@ -1,5 +1,44 @@
+body {
+  margin-top: 50px;
+  background-image: url("./images/coming_soon_background.jpg");
+  background-size: cover;
+}
+
 .App {
   text-align: center;
+}
+
+.myProjects {
+  text-align: left;
+}
+
+#myName {
+  font-weight: 700;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: 2px 2px 5px #D97980;
+}
+
+#job {
+  text-align: left;
+}
+
+#soon {
+  font-style: italic;
+  font-family: 'Lato', sans-serif;
+}
+
+#copyright {
+  font-weight: 300;
+  font-size: 9px;
+  font-family: 'Roboto', sans-serif;
+  color: #CECFC7;
+  text-align: right;
+  margin-top: 45vh;
+}
+
+.soon {
+  margin-top: 40vh;
+  color: #0E0004;
 }
 
 .App-logo {
