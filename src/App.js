@@ -7,8 +7,8 @@ class App extends Component {
       <div className="App">
        
         <div className="soon">
-          <h1 id="myName">Flora Marteau</h1>
-          <p id="soon">Coming soon</p>
+          <h1 id="myName">I'm Flora</h1>
+          <p id="soon">Web developer - coming soon</p>
         </div>
         <div className="social">
           <p></p>
@@ -26,7 +26,7 @@ class App extends Component {
             <p>TV POP mobile ver. - TV shows listing mobile app using a movie database API with React Native</p>
             <p>Parcel App - B2B mobile app helping with parcel delivery management with React Native</p>          
         </div> */}
-
+        <div id="copyright">© Flora Marteau, all rights reserved</div>
       </div>
     );
   }
